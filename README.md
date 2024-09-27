@@ -8,7 +8,6 @@
 - Each Gun Type can have different damages, fire rates, innacuracy, ammo capacities and use a different type of ammo
 - They also can have completely different types of bullets, like the Grenade Launcher, which isn't HitScan / LineTrace like the other guns
 - Enemies that have health and can be defeated
-- 
 
 ### 🌐 Maps
 The project features 2 maps:
